@@ -1,8 +1,7 @@
 <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="latop" width="200" height="200" frameBorder="0">
 <h1>Hi there! 👋I am Anna.</h1>
 I consider myself as a Full-Stack but the true is that I prefer the Front.
-
-Love coding for the fact that I can build whatever I want.
+Love coding for the fact that I can build everything I dream.
 - 🌱 I’m currently learning JavaScript and React
 - 💬 Ask me anything about my projects.
 
