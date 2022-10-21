@@ -12,7 +12,14 @@ Love coding for the fact that I can build whatever I want.
 ![image](https://user-images.githubusercontent.com/85047120/197244748-d5d909c8-ebb2-4a91-b522-12a7f665a61b.png)
 ![image](https://user-images.githubusercontent.com/85047120/197245048-6f3ad437-b09d-48ec-8e6d-a2840bfb371f.png)
 ![image](https://user-images.githubusercontent.com/85047120/197245089-12fa8305-e937-48e1-812a-52a1846a84dd.png)
-![image](https://user-images.githubusercontent.com/85047120/197245122-f838ab0b-b02f-4099-a439-2178a3b715b6.png)
+![image](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![image](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![image](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
+![image](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaKondrDeveloper&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
