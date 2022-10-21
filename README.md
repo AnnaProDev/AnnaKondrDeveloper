@@ -20,7 +20,7 @@ Love coding for the fact that I can build everything I dream.
 ![image](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaKondrDeveloper&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaKondrDeveloper&layout=compact&theme=white&title_color=3544B1)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Check out my deployed projects:</h2>
 
