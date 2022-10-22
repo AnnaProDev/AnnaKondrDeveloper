@@ -27,8 +27,5 @@ Love coding for the fact that I can build everything I dream.<br>
 ➡️<a href="https://rocky-tundra-35654.herokuapp.com/">Newsletter-Signup</a> <br>
 ➡️<a href="https://tranquil-everglades-15328.herokuapp.com/">ToDoList</a>
 
-<h2>Contact me:</h2>
-
-<a href="https://www.linkedin.com/in/anna-kondrateva-developer">
-	<img src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-</a>
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aak2326999@gmail.com)](mailto:aak2326999@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-kondrateva-developer/)](https://www.linkedin.com/in/anna-kondrateva-developer/)
