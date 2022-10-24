@@ -22,10 +22,6 @@ Love coding for the fact that I can build everything I dream.<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaKondrDeveloper&layout=compact&theme=gruvbox&title_color=3544B1)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>Check out my deployed projects:</h2>
-
-➡️<a href="https://rocky-tundra-35654.herokuapp.com/">Newsletter-Signup</a> <br>
-➡️<a href="https://tranquil-everglades-15328.herokuapp.com/">ToDoList</a>
-
+<h2>Contact me:</h2>
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aak2326999@gmail.com)](mailto:aak2326999@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-kondrateva-developer/)](https://www.linkedin.com/in/anna-kondrateva-developer/)
