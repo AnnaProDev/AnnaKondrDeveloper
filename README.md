@@ -4,6 +4,8 @@ I consider myself as a Full-Stack but the true is that I prefer the Front.<br>
 The challenge of building something from scratch and seeing it come to life is addicting.<br>
 - 🌱 I’m currently learning JavaScript and React <br>
 - 💬 Ask me anything about my projects.
+<br>
+<h4>My portfolio => https://annakondr.su/ </h4>
 
 <h2>Skills and Technologies:</h2>
 
