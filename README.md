@@ -1,9 +1,10 @@
 <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="latop" width="200" height="200" frameBorder="0">
 <h1>Hi there! 👋I am Anna.</h1>
-I am a Front-End developer, who is passionate about my business.<br>
-The challenge of building something from scratch and seeing it come to life is addicting.<br>
-- 🌱 I’m currently learning JavaScript and React <br>
-- 💬 Ask me anything about my projects.
+I'm a Front-End developer with a passion for building projects from the ground up and bringing them to life.
+
+Currently, I'm focusing on expanding my skills in JavaScript and React. I believe in the power of these technologies to create immersive and dynamic web experiences for users.
+
+If you have any questions about my projects or want to discuss anything related to Front-End development, please don't hesitate to reach out. I'm always eager to share my knowledge and collaborate with others in the community.
 <br>
 <h4>My portfolio => https://annakondr.su/ </h4>
 
