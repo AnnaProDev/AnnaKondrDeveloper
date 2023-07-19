@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="latop" width="200" height="200" frameBorder="0">
-<h1>Hi there! 👋I am Anna.</h1>
+<h1>Hi there! 👋I am Anna</h1>
 I'm a Front-End developer with a passion for building projects from the ground up and bringing them to life.
 
 Currently, I'm focusing on expanding my skills in JavaScript and React. I believe in the power of these technologies to create immersive and dynamic web experiences for users.
