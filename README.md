@@ -6,7 +6,7 @@ Currently, I'm focusing on expanding my skills in JavaScript and React. I believ
 
 If you have any questions about my projects or want to discuss anything related to Front-End development, please don't hesitate to reach out. I'm always eager to share my knowledge and collaborate with others in the community.
 <br>
-<h4>My portfolio => https://annakondr.su </h4>
+<h4>My portfolio => https://annaprodev.com </h4>
 
 <h2>Skills and Technologies:</h2>
 
